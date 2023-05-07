@@ -7,10 +7,9 @@
   	<img src="https://img.shields.io/badge/Telegram-blue?style-for-the- badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
-  
-  [![ТОП используемых языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![ТОП используемых языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=DenOrekhov567&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=DenOrekhov567)
 </div>
 
 
