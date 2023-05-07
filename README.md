@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Привет, я Денис</h1>
+    <h3>Backend-разработчик из Перми</h3>
+</div>
+<div id="socials" align="center">
+  <a href="telegram-url">
+  	<img src="https://img.shields.io/badge/Telegram-blue?style-for-the- badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  
+  [![ТОП используемых языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**DenOrekhov567/DenOrekhov567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=your-github-username)
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
